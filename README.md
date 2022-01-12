@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KingCocoIsh
-- 👀 I’m interested in anime, video games, musci
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on anything interesting really.
 

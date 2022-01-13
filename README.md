@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingCocoIsh
 - 🌱 I’m currently learning python, git etc.
--  😇 I'm looking to collaborate on anything interesting really.
+-  😇 I'm looking to collaborate on anything.
 
 <!---
 KingCocoIsh/KingCocoIsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
